@@ -29,7 +29,11 @@
 ![](https://github-readme-stats.shion.dev/api?username=Surajit-0073&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Surajit-0073&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Surajit-0073&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajit-0073&custom_title=Contribution%20Graph&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=c9d1d9&area_color=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
+
+  <br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Surajit-0073&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
