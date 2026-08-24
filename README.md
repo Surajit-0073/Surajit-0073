@@ -1,5 +1,6 @@
 <h1 align="center"><span style="color:#ff6b6b;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Surajit Bera</span></h1>
-<h3 align="center"><span style="color:#ff6b6b;">I'm a Full Stack Developer from India passionate about building scalable web applications and AI-powered solutions</span></h3>
+<h3 align="center"><span style="color:#ff6b6b;">I'm a Full Stack Developer from India and I love building web apps and AI solutions.
+</span></h3>
 <img align="right" hspace="0" alt="coding" style="margin-left: 90px" width="290" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
 
 <p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=Surajit-0073&label=Profile%20views&color=ff6b6b&style=plastic" alt=Surajit-0073" /></span> </p>
