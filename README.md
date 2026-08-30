@@ -1,3 +1,4 @@
+
 <h1 align="center"><span style="color:#ff6b6b;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Surajit Bera</span></h1>
 <h3 align="center"><span style="color:#ff6b6b;">I'm a Full Stack Developer from India and I love building web apps and AI solutions.
 </span></h3>
@@ -32,9 +33,13 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Surajit-0073&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajit-0073&custom_title=Contribution%20Graph&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=c9d1d9&area_color=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
+### 📈 Activity & Contribution Flow
 
-  <br><br>
+<div align="center">
+  <img src="assets/contributions.svg" alt="Activity & Contribution Flow" width="100%" />
+</div>
+
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Surajit-0073&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
