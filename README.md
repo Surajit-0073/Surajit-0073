@@ -49,5 +49,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Surajit-0073&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00ffff" />
+</p>
 
 
