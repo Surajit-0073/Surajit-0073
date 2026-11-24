@@ -1,43 +1,96 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004e92,100:00ffff&text=SURAJIT%20BERA&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h1 align="center"><span style="color:#ff6b6b;">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30">, I'm Surajit Bera</span></h1>
-<h3 align="center"><span style="color:#ff6b6b;">I'm a Full Stack Developer from India and I love building web apps and AI solutions.
-</span></h3>
-<img align="right" hspace="0" alt="coding" style="margin-left: 90px" width="290" src="https://raw.githubusercontent.com/vsuman00/vsuman00/main/git.gif">
+<div align="center">
 
-<p align="left"> <span style="color:#ff6b6b;"><img src="https://komarev.com/ghpvc/?username=Surajit-0073&label=Profile%20views&color=ff6b6b&style=plastic" alt=Surajit-0073" /></span> </p>
+### 🚀 Software Developer | AI/ML Enthusiast | Building Scalable Web Application
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Developer;AI%2FML+Enthusiast;Problem+%7C+Solver;Building+Scalable+Web+Application;Always+Learning+Something+New" />
 
-- <span style="color:#ff6b6b;">🌱 I’m currently learning <b>MERN Stack</b></span>
+<p>
+<img src="https://komarev.com/ghpvc/?username=Surajit-0073&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Surajit-0073?label=Followers&style=social" />
+</p>
 
-- <span style="color:#ff6b6b;">⚡ Writing clean, efficient, and maintainable code </span>
+</div>
+# 💫 About Me
 
-- <span style="color:#ff6b6b;">🌱 Continuously learning  <b>new technologies</b></span>
+💻 Passionate about
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Backend Development
 
-- <span style="color:#ff6b6b;">📫 How to reach me <b>sbera1875@gmail.com</b></span>
+🌱 Currently Learning
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surajit-bera053) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SurajitBer51716) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sbera1875@gmail.com) 
+- React.js and Modern Frontend Devlopment
+- Advanced DSA
+  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+🎯 Goal
+
+Become a Software Development Engineer and build impactful AI-powered applications.
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+| <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="65"/><br><sub><b>Python</b></sub></a> | <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="65"/><br><sub><b>Java</b></sub></a> | <a href="https://en.cppreference.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="65"/><br><sub><b>C</b></sub></a> | <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="65"/><br><sub><b>C++</b></sub></a> | <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="65"/><br><sub><b>JavaScript</b></sub></a> | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="65"/><br><sub><b>TypeScript</b></sub></a> | <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="65"/><br><sub><b>HTML5</b></sub></a> | <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="65"/><br><sub><b>CSS3</b></sub></a> | <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><sub><b>MySQL</b></sub></a> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+
+---
+
+---
+
+### ⚡ Frameworks
+
+| <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="65"/><br><sub><b>Django</b></sub></a> | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="65"/><br><sub><b>React</b></sub></a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br><sub><b>Node.js</b></sub></a> | <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="65"/><br><sub><b>Express</b></sub></a> | <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br><sub><b>Tailwind</b></sub></a> | <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br><sub><b>Bootstrap</b></sub></a> | <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="65"/><br><sub><b>Flask</b></sub></a> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+
+---
+
+### 🤖 AI / ML
+
+| <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br><sub><b>TensorFlow</b></sub></a> | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br><sub><b>PyTorch</b></sub></a> | <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="65"/><br><sub><b>OpenCV</b></sub></a> |
+| :-: | :-: | :-: |
+---
+
+### 🛠 Tools
+
+| <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="65"/><br><sub><b>Git</b></sub></a> | <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="65"/><br><sub><b>GitHub</b></sub></a> | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="65"/><br><sub><b>VS Code</b></sub></a> | <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="65"/><br><sub><b>Postman</b></sub></a> | <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br><sub><b>Linux</b></sub></a> |
+| :-: | :-: | :-: | :-: | :-: |
+
+---
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Surajit-0073&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Surajit-0073&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Surajit-0073&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br><br>
+# 📊 GitHub Statistics
 
-### 📈 Activity & Contribution Flow
+<p align="center">
+  <img src="https://github-readme-stats-five-mauve-27.vercel.app/api?username=Surajit-0073&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="assets/contributions.svg" alt="Activity & Contribution Flow" width="100%" />
-</div>
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Surajit-0073&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+[![Souvik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surajit-0073&theme=tokyo-night)](https://github.com/SOUVIKKONAR)
+
+---
+
 
  
 ## 🏆 GitHub Trophies
@@ -46,11 +99,25 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Surajit-0073&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00ffff" />
 </p>
 
+# 🌐 Connect with Me
 
+<p>
+
+<a href="https://linkedin.com/in/surajit-bera053/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:surajitbera0053@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Surajit-0073">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
