@@ -100,10 +100,6 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00ffff" />
-</p>
-
 # 🌐 Connect with Me
 
 <p>
@@ -120,4 +116,7 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00ffff" />
 </p>
