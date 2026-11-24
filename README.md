@@ -6,7 +6,7 @@
 
 ### 🚀 Software Developer | AI/ML Enthusiast | Building Scalable Web Application
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Developer;AI%2FML+Enthusiast;Problem+%7C+Solver;Building+Scalable+Web+Application;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Software+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Scalable+Web+Application;Always+Learning+Something+New" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Surajit-0073&label=Profile%20Views&color=0e75b6&style=flat" />
