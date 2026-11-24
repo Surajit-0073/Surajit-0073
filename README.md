@@ -87,7 +87,7 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 
 # 📈 Activity Graph
 
-[![Souvik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surajit-0073&theme=tokyo-night)](https://github.com/SOUVIKKONAR)
+[![Souvik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Surajit-0073&theme=tokyo-night)](https://github.com/Surajit-0073)
 
 ---
 
